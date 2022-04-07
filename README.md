@@ -20,11 +20,11 @@
 
 1. Get Slack API Token
 
-2. Add an OAuth scope **emoji:read**
+2. Add an OAuth scope for your API Token **emoji:read**
 
-3. Install your App to target workspace
+3. Install your Slack App to target workspace
 
-4. Git Clone this package:
+4. Git clone this repository:
 
   ```zsh
   git clone git@github.com:user/get-all-slack-emojis.git
