@@ -1,1 +1,6 @@
-__version__ = '1.0.0'
+__version__ = "1.0.0"
+__copyright__ = "Copyright (C) 2022 Kohei Ohno"
+__license__ = "MIT"
+__author__ = "Kohei Ohno"
+__author_email__ = "discus0434@gmail.com"
+__url__ = "https://github.com/discus0434/get-all-slack-emojis"
