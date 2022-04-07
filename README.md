@@ -27,7 +27,7 @@
 4. Git Clone this package:
 
   ```zsh
-  git clone git@github.com:discus0434/get-all-slack-emojis.git
+  git clone git@github.com:user/get-all-slack-emojis.git
   ```
 
 ## Usage
