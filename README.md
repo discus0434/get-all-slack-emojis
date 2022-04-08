@@ -41,7 +41,7 @@
 4. Open Terminal, move to clone directory, and run this:
 
   ```zsh:zsh
-  python all_slack_emojis [-h] [-o OUTPUT] token
+  python all_slack_emojis -o <OUTPUT DIR> <YOUR OAUTH TOKEN>
   ```
 
 5. ***Get 'em all!***
