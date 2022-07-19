@@ -21,7 +21,7 @@ def get_custom_emoji_dict(client: Any) -> Union[Dict[str, str], None]:
         Union[Dict[str, str], None]: Dict contains image-url and name of
             all custom emojis in your workspace.
     """
-    # Try to communicate with Slack API 3 times.
+    # Try to communicate with Slack API {RETRY} times.
     RETRY = 3
 
     for _ in range(RETRY):
