@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  This package allows to get all custom emojis in your Slack workspace.
+  This code allows to get all custom emojis in your Slack workspace.
 </h3>
 
 ## Installation
@@ -38,7 +38,7 @@
 
 ## Reference
 
-I created this package because the following repo does not work, maybe due to some specification changes of Slack API.
+I created this code because the following repo does not work, maybe due to some specification changes of Slack API.
 
 jkloo / slack-emojis
 <https://github.com/jkloo/slack-emojis>
